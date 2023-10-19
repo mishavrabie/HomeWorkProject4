@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1df512c-1831-40fa-b83d-baf6a39187a2" name="Changes" comment="Done project">
-      <change afterPath="$PROJECT_DIR$/src/test/java/projectTwo.java" afterDir="false" />
+    <list default="true" id="f1df512c-1831-40fa-b83d-baf6a39187a2" name="Changes" comment="Done project2">
+      <change afterPath="$PROJECT_DIR$/src/test/java/project4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Project.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Project.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Mihail Vrabie &lt;mishavrabie@yahoo.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
@@ -43,9 +46,16 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.projectTwo">
+  <component name="RunManager" selected="Application.project4">
     <configuration name="Project" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Project" />
+      <module name="HomeWorkProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="project4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project4" />
       <module name="HomeWorkProject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,6 +70,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.project4" />
         <item itemvalue="Application.projectTwo" />
         <item itemvalue="Application.Project" />
       </list>
@@ -81,11 +92,66 @@
       <option name="project" value="LOCAL" />
       <updated>1697400966430</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Done project">
+      <created>1698685154574</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698685154574</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Done project">
+      <created>1698685339965</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698685339965</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Done project">
+      <created>1698685506794</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698685506794</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Done project3">
+      <created>1698685573207</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698685573207</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Done project3">
+      <created>1698685603697</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698685603697</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Done project2">
+      <created>1698686050497</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698686050497</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Done project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done project" />
+    <MESSAGE value="Done project3" />
+    <MESSAGE value="Done project2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done project2" />
   </component>
 </project>
